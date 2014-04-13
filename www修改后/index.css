@@ -1,0 +1,16 @@
+body {
+	text-align:center;
+}
+.a {
+
+	font-size:15px;
+	color: #0066CC;
+	margin:5px; padding:3px;
+}
+.td {
+	colspan=2;
+	align=center"
+	font-size:15px;
+	color: #0066CC;
+	margin:5px; padding:3px;
+}
